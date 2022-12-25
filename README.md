@@ -1,2 +1,2 @@
  
-Unit test C# class with xUnit
+This is a set of test cases for a Mathematics class, which contains methods for performing basic arithmetic operations. The test cases use the xUnit testing framework and cover various assertions such as Equal, Contains, True/False, Match/DoesNotMatch, StartsWith/EndsWith, Empty/NotEmpty, Single, IsType/IsNotType, IsAssignableFrom, Null/NotNull. The test cases also demonstrate the use of Theory and MemberData to run the same test with multiple sets of input data.
